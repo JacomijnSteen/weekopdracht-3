@@ -1,0 +1,36 @@
+html.body{
+    min-height: 100% ;
+    max-width: auto;
+    background-size: cover;
+    }
+
+  body{
+    position:absolute;
+    height: 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-image: linear-gradient(#23E223,#064E17);
+    background-image: -moz-linear-gradient(#23E223,#064E17) no-repeat;
+    background-image: -ms-linear-gradient(#23E223,#064E17) no-repeat;
+    background-image: -webkit-linear-gradient(#23E223,#064E17) no-repeat;
+    background-image: -webkit-linear-gradient(#23E223,#064E17) no-repeat;
+    background-image: -o-linear-gradient(#23E223,#064E17)) no-repeat;
+    background-image:  linear-gradient(#23E223,#064E17) no-repeat;
+    }
+
+.tabel{
+    padding:10px;
+    border: 1px solid black;
+    height: :90%;
+    width: 95%;
+    border-collapse:collapse;
+    font-size:20px;
+    text-align:left;
+    border-bottom: 2nopx solid black;
+    }
+
+#garbin{
+    width:50px;
+    height:50px;
+
+}
